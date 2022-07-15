@@ -1,4 +1,2 @@
-merhaba
-Öyun gelitirme ile ilgileniyorum
-piton öğreiyorum
-Öğrenciyim
+Web Tasarım
+Front-End adayı
